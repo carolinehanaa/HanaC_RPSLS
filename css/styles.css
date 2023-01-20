@@ -1,0 +1,25 @@
+.modeBtn{
+    width: 250px;
+    height: 250px;
+    
+}
+
+.modes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.score-image{
+    width: 250px;
+    height: 250px;
+}
+
+.score-box{
+    display: flex;
+    justify-content: space-evenly;
+}
